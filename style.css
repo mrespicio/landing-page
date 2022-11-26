@@ -78,13 +78,19 @@ ul a{
 	flex: 1;
 }
 
-#sign-up{
+.sign-up{
 	background-color: #3882F6;
 	color: #F9FAF8;
 	height: 3em;
-	width: 6em;
-	border-radius: 8px;
+	width: 9em;
+	border-radius: 6px;
+	border: none;
 }
+
+.white-border{
+	border: solid 1px #F9FAF8;
+}
+
 .hero-right{
 	/* border: solid 1px blue; */
 }
@@ -97,7 +103,7 @@ ul a{
 	flex: 1;
 }
 
-.random-info{
+.random-info-block{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -136,7 +142,7 @@ ul a{
 	border-radius: 16px;
 }
 
-.quote{
+.quote-block{
 	background: #E5E7EB;
 	display: flex;
 	justify-content: center;
@@ -158,4 +164,27 @@ ul a{
 	display: flex;
 	justify-content: flex-end;
 	font-weight: bold;
+}
+
+.action-block{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex: 1;
+}
+
+.action-box{
+	background-color: #3882F6;
+	border-radius: 8px;
+	display: flex;
+	margin: 64px 0;
+	height: 128px;
+	width: 800px;
+	color: #F9FAF8;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.action-text{
+	/* border: solid 1px red; */
 }
