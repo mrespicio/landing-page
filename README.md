@@ -3,7 +3,7 @@
 ## Desired Outcome
 ![image of desired outcome for landing page website](design-goal/full-design.png)
 
-![image of my landing page website design](readme-preview/desktop.png)
+![image of my landing page website design](readme-previews/desktop.png)
 
 ## Project Goals
 * Create an website web page from a design provided 
